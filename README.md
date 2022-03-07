@@ -34,6 +34,7 @@ The iSPL IMU-Stretch dataset was collected from one subject wearing 3 IMUs (at t
 
 
 ***Citation***: If you would like to use the iSPL IMU-Stretch Dataset or the materials in this repo, please cite our work:
+
 N. T. H. Thu and D. S. Han, "An Investigation on Deep Learning-Based Activity Recognition Using IMUs and Stretch Sensors," 2022 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2022, pp. 377-382, doi: 10.1109/ICAIIC54071.2022.9722621.
 
 If you have any question, please feel free to contact me (thunguyen@knu.ac.kr) or if you find out any error, please let me know by creating a new issue in this repo.
